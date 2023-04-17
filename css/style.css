@@ -1,0 +1,19 @@
+body {
+    background-color: #faebd6;
+}
+
+h1 {
+    color: #ff0000;
+    font-size: 3em;
+    text-align: center;
+}
+
+#paragraf1 {
+    color: #a42423;
+    font-size: 2em;
+}
+
+#paragraf2 {
+    color: #00008f;
+    font-size: 2em;
+}
